@@ -4,6 +4,7 @@ import concat from './Array/concat'
 import difference from './Array/difference'
 import differenceBy from './Array/differenceBy'
 import drop from './Array/drop.js'
+import dropRight from './Array/dropRight.js'
 
 export {
   chunk,
@@ -12,4 +13,5 @@ export {
   difference,
   differenceBy,
   drop,
+  dropRight,
 }
