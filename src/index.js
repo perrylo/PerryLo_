@@ -5,6 +5,7 @@ import difference from './Array/difference'
 import differenceBy from './Array/differenceBy'
 import drop from './Array/drop.js'
 import dropRight from './Array/dropRight.js'
+import dropRightWhile from './Array/dropRightWhile.js'
 
 export {
   chunk,
@@ -14,4 +15,5 @@ export {
   differenceBy,
   drop,
   dropRight,
+  dropRightWhile,
 }
